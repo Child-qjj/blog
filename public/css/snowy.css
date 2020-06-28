@@ -1,0 +1,11 @@
+div#snow{
+    overflow: hidden;
+    color: rgb(185, 181, 181);
+}
+/* .el-calendar-day {
+    height: 55px !important;
+} */
+div.el-calendar{
+    height: 100%;
+    overflow: auto;
+}

@@ -1,0 +1,19 @@
+div#tab-0 {
+    text-align: center;
+}
+div#tab-1 {
+    text-align: center;
+}
+div#tab-2 {
+    text-align: center;
+}
+div#tab-3 {
+    text-align: center;
+}
+div.el-tabs__header.is-left {
+    float: none !important;
+    /* padding-top: 100px !important; */
+}
+textarea.el-textarea__inner{
+    min-height: 200px !important;
+}
